@@ -5,10 +5,12 @@
 - 🏫 Graduating Machine Learning Master Student at Gdańsk University of Technology
 - 🔬 AI Scientist
 - 🤖 Robot Ally
-
+📧
 
 <div>
-    <a href src="mailto:the_atm@wp.pl"> 📧 </a>
+    <a href src="mailto:the_atm@wp.pl">  
+        <img src="https://github.com/theATM/theATM/blob/main/email.png" title="Contact Me" alt="My Email" width="50" height="40"/>
+    </a>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="My LinkedIn Page" alt="My LinkedIn Page" width="40" height="40"/>&nbsp;  
 </div>
 
@@ -29,7 +31,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git Logo" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker Logo" width="40" height="40"/>&nbsp;
 
-  </div>
+</div>
+
+## My Projects:
+
+![BrainBot](https://github.com/theATM/theATM/assets/48883111/71f3debd-5d1e-4828-84f8-5afe425cc5f5)
+
+
 
 <!-- ### Hi there 👋 -->
 
