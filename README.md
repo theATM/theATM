@@ -39,11 +39,19 @@
 
 <!-- Here is a small list of the best programming projects I have participated in the recent years -->
 
-## BrainBot Research Project:
-
 ![BrainBot](https://github.com/theATM/theATM/assets/48883111/71f3debd-5d1e-4828-84f8-5afe425cc5f5)
 
-<!-- Brain Machine Interface for robot remote control
-through EEG motion imagery signal classification
-using CNN, combined with obstacle avoidance
-system. -->
+### BrainBot Research Project
+Machine Learning Team Research Project. The Brain Machine Interface for robot remote control through EEG motion imagery signal classification using CNN, combined with obstacle avoidance system.
+
+- The "BrainBot" project proposes a brain-machine interface (BMI) that enables remote robot control using motion imagery.
+- The main goal behind this project is to classify EEG signals corresponding to increased brain activity while imagining left or right arm motion and a state of deep relaxation. Two convolutional neural models (CNN) are used to classify signals from 16 EEG channels.
+- Obstacle avoidance mechanism is proposed. Single RGB cammera is used in depth estimation using pretrain deep learning model MiDaS. Model predictions are used to detect obstacles during the robot's forward movement.
+
+- The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/LipenOptimization"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Repository" alt="GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
+
+
+
+
+
+
