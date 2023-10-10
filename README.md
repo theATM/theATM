@@ -1,7 +1,7 @@
 
 ![Banner5](https://github.com/theATM/theATM/assets/48883111/28909239-e65c-4d31-8674-b3df26aea064)
 
-## About Me
+# About Me
 - 🏫 Graduating Machine Learning Master Student at Gdańsk University of Technology
 - 🔬 AI Scientist
 - 🤖 Robot Ally
@@ -35,25 +35,15 @@
 
 </div>
 
-## My Projects:
+# My Projects:
+
+<!-- Here is a small list of the best programming projects I have participated in the recent years -->
+
+## BrainBot Research Project:
 
 ![BrainBot](https://github.com/theATM/theATM/assets/48883111/71f3debd-5d1e-4828-84f8-5afe425cc5f5)
 
-
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**theATM/theATM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Brain Machine Interface for robot remote control
+through EEG motion imagery signal classification
+using CNN, combined with obstacle avoidance
+system. -->
