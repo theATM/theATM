@@ -58,7 +58,7 @@ The AirDetection Project explores the fascinating field of object detection in s
 - The project's main objective is to compare the effectiveness of modern neural network architectures on <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a>  remote sensing dataset
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
 - Analyse the challanges with the top-down object detection
-
+  
 
 
 
