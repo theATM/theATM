@@ -4,8 +4,7 @@
 # About Me
 - 🏫 Graduating Machine Learning Master Student at Gdańsk University of Technology
 - 🔬 AI Scientist
-- 🤖 Robot Ally
-📧
+- 🤖 Robot Ally 🤖 
 
 <div>
     <a href="mailto:the_atm@wp.pl">  
