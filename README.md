@@ -35,13 +35,15 @@
 
 </div>
 
-# My Projects:
+<!-- # My Projects: -->
 
 <!-- Here is a small list of the best programming projects I have participated in the recent years -->
 
+# BrainBot Research Project
+
 ![BrainBot](https://github.com/theATM/theATM/assets/48883111/71f3debd-5d1e-4828-84f8-5afe425cc5f5)
 
-### BrainBot Research Project
+
 Machine Learning Team Research Project. The Brain Machine Interface for robot remote control through EEG motion imagery signal classification using CNN, combined with obstacle avoidance system.
 
 - The "BrainBot" project proposes a brain-machine interface (BMI) that enables remote robot control using motion imagery.
@@ -50,7 +52,7 @@ Machine Learning Team Research Project. The Brain Machine Interface for robot re
 
 - The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/LipenOptimization"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="BrainBot GitHub Repository" alt="BrainBot GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
 
-## AirDetection Master's Thesis Project
+# AirDetection Master's Thesis Project
 ![BannerAirDetection](https://github.com/theATM/theATM/assets/48883111/e503c28a-32fd-4995-ab39-d3ca2362a8cd)
 
 The AirDetection Project explores the fascinating field of object detection in satellite imagery. Project Repository is avaiable here:  <a href="https://github.com/theATM/AirDetection"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="AirDetection GitHub Repository" alt="AirDetection GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
@@ -59,6 +61,9 @@ The AirDetection Project explores the fascinating field of object detection in s
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
 - Analyse the challanges with the top-down object detection
   
+# My Additional Projects:
+
+![addprojects4](https://github.com/theATM/theATM/assets/48883111/9215a8cb-eb46-491f-bd5f-4701ab251c7e)
 
 
-
+![addprojects1](https://github.com/theATM/theATM/assets/48883111/c0aed60d-8119-4de1-852c-e0ed81bab93e)
