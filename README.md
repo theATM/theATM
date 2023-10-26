@@ -2,7 +2,7 @@
 ![Banner5](https://github.com/theATM/theATM/assets/48883111/28909239-e65c-4d31-8674-b3df26aea064)
 
 # About Me
-- 🏫 Graduating Machine Learning Master Student at Gdańsk University of Technology
+- 🏫 Machine Learning Master at Gdańsk University of Technology
 - 🔬 AI Scientist
 - 🤖 Robot Ally 🤖 
 
