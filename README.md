@@ -53,7 +53,7 @@ Machine Learning Team Research Project. The Brain Machine Interface for robot re
 # AirDetection Master's Thesis Project
 ![BannerAirDetection](https://github.com/theATM/theATM/assets/48883111/e503c28a-32fd-4995-ab39-d3ca2362a8cd)
 
-The AirDetection Project explores the fascinating field of object detection in satellite imagery. Project Repository is avaiable here:  <a href="https://github.com/theATM/AirDetection"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="AirDetection GitHub Repository" alt="AirDetection GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
+The AirDetection Project explores the fascinating field of object detection in satellite imagery. Project Repository is avaiable here:  <a href="https://github.com/theATM/AirDetection"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="AirDetection GitHub Repository" alt="AirDetection GitHub Repository Link" width="25" height="25"/> </a>
 
 - The project's main objective is to compare the effectiveness of modern neural network architectures on <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a>  remote sensing dataset
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
