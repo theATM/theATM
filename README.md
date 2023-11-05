@@ -59,7 +59,7 @@ The AirDetection Project explores the fascinating field of object detection in s
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
 - Analyse the challanges with the top-down object detection
   
-# My Additional Projects:
+# My Additional AI Projects:
 
 ![addprojects4](https://github.com/theATM/theATM/assets/48883111/9215a8cb-eb46-491f-bd5f-4701ab251c7e)
 
