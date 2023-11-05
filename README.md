@@ -48,7 +48,7 @@ Machine Learning Team Research Project. The Brain Machine Interface for robot re
 - The main goal behind this project is to classify EEG signals corresponding to increased brain activity while imagining left or right arm motion and a state of deep relaxation. Two convolutional neural models (CNN) are used to classify signals from 16 EEG channels.
 - Obstacle avoidance mechanism is proposed. Single RGB cammera is used in depth estimation using pretrain deep learning model MiDaS. Model predictions are used to detect obstacles during the robot's forward movement.
 
-- The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/LipenOptimization"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="BrainBot GitHub Repository" alt="BrainBot GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
+- The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/BrainBotMotorImagery"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="BrainBot GitHub Repository" alt="BrainBot GitHub Repository Link" width="25" height="25"/> </a>&nbsp;
 
 # AirDetection Master's Thesis Project
 ![BannerAirDetection](https://github.com/theATM/theATM/assets/48883111/e503c28a-32fd-4995-ab39-d3ca2362a8cd)
