@@ -8,11 +8,10 @@
 
 <div>
     <a href="mailto:the_atm@wp.pl">  
-        <img src="https://github.com/theATM/theATM/blob/main/email.png" title="Contact Me" alt="My Email" width="50" height="40"/>
-    </a>&nbsp;  
+        <img src="https://github.com/theATM/theATM/blob/main/email.png" title="Contact Me" alt="My Email" width="50" height="40"/></a>
     <a href="https://www.linkedin.com/in/aleksander-madajczak/"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="My LinkedIn Page" alt="My LinkedIn Page" width="40" height="40"/>
-    </a>&nbsp;  
+    </a> 
 </div>
 
 
