@@ -2,9 +2,13 @@
 ![Banner5](https://github.com/theATM/theATM/assets/48883111/28909239-e65c-4d31-8674-b3df26aea064)
 
 # About Me
-- 🏫 Machine Learning Master at Gdańsk University of Technology
-- 🔬 AI Scientist
+- 🔬 AI Scientist, 💻 Computer Scientist specialising in Machine Learning 🧠 
+- 👨‍🎓 Graduated Machine Learning Master at Gdańsk University of Technology 🏫
+- ❄️ Survived Winter in the Far North, as Erasmus+ Student in University of Oulu, Finland 🧳
 - 🤖 Robot Ally 🤖 
+
+
+### ⌨️ My Contact Info 🔌:
 
 <div>
     <a href="mailto:the_atm@wp.pl">  
@@ -15,7 +19,7 @@
 </div>
 
 
-### ⌨️ Programming Skills:
+### ⌨️ Programming Skills :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch Logo" width="40" height="40"/>&nbsp;  
