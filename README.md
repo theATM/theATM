@@ -80,7 +80,7 @@ The AirDetection Project explores the fascinating field of object detection in s
 
 - Enigma (C++)  <a href="https://github.com/theATM/Enigma"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Enigma GitHub Repository" alt="Enigma GitHub Repository Link" width="25" height="25"/></a>  &nbsp;  LifeSimulator (Java & C++) <a href="https://github.com/theATM/LifeSimulation"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="LifeSimulator GitHub Repository" alt="LifeSimulator GitHub Repository Link" width="25" height="25"/></a>
 
-
+- ServerRoomMonitoringApp (C# & .Net Core)  <a href="https://github.com/TPiechocki/ServerRoomMonitoringApp"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="ServerRoomMonitoringApp GitHub Repository" alt="Server Room Monitoring App GitHub Repository Link" width="25" height="25"/></a>  &nbsp;
 
 
 
