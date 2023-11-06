@@ -82,5 +82,7 @@ The AirDetection Project explores the fascinating field of object detection in s
 
 - ServerRoomMonitoringApp (C# & .Net Core)  <a href="https://github.com/TPiechocki/ServerRoomMonitoringApp"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="ServerRoomMonitoringApp GitHub Repository" alt="Server Room Monitoring App GitHub Repository Link" width="25" height="25"/></a>  &nbsp;
 
+- DroneIt (Java & Jakarta EE & JSF)  <a href="https://github.com/theATM/DroneIt"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="DroneIt GitHub Repository" alt="DroneIt GitHub Repository Link" width="25" height="25"/></a>  &nbsp;
+
 
 
