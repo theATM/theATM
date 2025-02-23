@@ -52,7 +52,8 @@ Machine Learning Team Research Project. The Brain Machine Interface for robot re
 - The main goal behind this project is to classify EEG signals corresponding to increased brain activity while imagining left or right arm motion and a state of deep relaxation. Two convolutional neural models (CNN) are used to classify signals from 16 EEG channels.
 - Obstacle avoidance mechanism is proposed. Single RGB cammera is used in depth estimation using pretrain deep learning model MiDaS. Model predictions are used to detect obstacles during the robot's forward movement.
 
-- The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/BrainBotMotorImagery"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="BrainBot GitHub Repository" alt="BrainBot GitHub Repository Link" width="25" height="25"/> </a> 
+- The Code Repository is avaiable under this link:  <a href="https://github.com/Nikodemmn1/BrainBotMotorImagery"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="BrainBot GitHub Repository" alt="BrainBot GitHub Repository Link" width="25" height="25"/> </a>
+- Research published in MDPI Sensors Journal, DOI: <a href="https://www.mdpi.com/1424-8220/24/3/918">10.3390/s24030918</a>
 
 # AirDetection Master's Thesis Project
 ![BannerAirDetection](https://github.com/theATM/theATM/assets/48883111/e503c28a-32fd-4995-ab39-d3ca2362a8cd)
@@ -62,6 +63,7 @@ The AirDetection Project explores the fascinating field of object detection in s
 - The project's main objective is to compare the effectiveness of modern neural network architectures on <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a>  remote sensing dataset
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
 - Analyse the challanges with the top-down object detection
+- Research published in IGARSS 2024 IEEE Conference, DOI:  <a href="https://ieeexplore.ieee.org/document/10640694">10.1109/IGARSS53475.2024.10640694</a>
   
 # My Additional AI Projects:
 
